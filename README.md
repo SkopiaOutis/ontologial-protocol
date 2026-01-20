@@ -12,3 +12,5 @@ through thermodynamic incentives.
 https://github.com/SkopiaOutis/ontologial-protocol/blob/main/ontological_protocol.pdf
 
 You are very welcomed to join thie evolution of capitalism and the entire economy.
+
+For questions and discussion you can also use: skopiaoutis@gmail.com
