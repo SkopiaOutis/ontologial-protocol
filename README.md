@@ -1,4 +1,3 @@
-Abstract
 The transition from an industrial economy to an intelligence economy requires a fundamental
 revision of value theory. Traditional monetary systems, based on static asset ownership and scarcity,
 fail to efficiently allocate resources in an environment of zero-marginal-cost reproduction (AI).
