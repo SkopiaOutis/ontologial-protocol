@@ -14,3 +14,5 @@ determined algorithmically via a recursive Proof-of-Impact mechanism (The Ripple
 a Directed Acyclic Graph (DAG). This architecture enables a trustless, non-hierarchical coordination
 of resources, effectively solving the alignment problem for autonomous agents (and also humans)
 through thermodynamic incentives.
+
+https://github.com/SkopiaOutis/ontologial-protocol/blob/main/ontological_protocol.pdf
