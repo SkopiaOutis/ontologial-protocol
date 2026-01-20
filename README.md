@@ -1,8 +1,3 @@
-THE ONTOLOGICAL PROTOCOL
-A Peer-to-Peer Causal Economy for Autonomous Agents and Humans
-Skopia Outis
-January 20, 2026
-v1.0.0 (Genesis)
 Abstract
 The transition from an industrial economy to an intelligence economy requires a fundamental
 revision of value theory. Traditional monetary systems, based on static asset ownership and scarcity,
