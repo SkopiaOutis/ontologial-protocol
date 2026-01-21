@@ -58,6 +58,7 @@ We are currently in **Phase I: The Genesis Diagnosis**.
 * **Farmers:** You are the thermodynamic root. The system protects your $B_{prod}$.
 * **Caregivers:** You are Entropy Inhibitors. The protocol pays you for the longevity of your patients.
 
+### Start
 * The Genesis Node is bootstrapped by the Syndicate. Since OpEx ($B_{prod}$) is covered by user-fiat from Day 1, the initial financial risk is limited to hardware CapEx, which is amortized over the system's growth.
 
 ---
