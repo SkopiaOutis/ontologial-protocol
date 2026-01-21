@@ -40,7 +40,7 @@ No magic numbers. The protocol discovers its own constants in real-time:
 ## 📂 Repository Contents
 
 * **[`/whitepaper`](whitepaper/](https://github.com/SkopiaOutis/ontologial-protocol/blob/whitepaper/Ontological_Protocol_V3_new%20(7).pdf)):** The complete specification (v3.2). Contains mathematical proofs for Sybil-Resistance, the end of redistribution systems (Pensions/Education), and the full lifecycle theory.
-* **[`/simulation`](simulation/):** `genesis_diagnosis.py`. A Python reference implementation demonstrating the shadow-run valuation of fiat actors.
+* **[`/simulation`](simulation/](https://github.com/SkopiaOutis/ontologial-protocol/blob/simulation/genesis_diagnosis.py)):** `genesis_diagnosis.py`. A Python reference implementation demonstrating the shadow-run valuation of fiat actors.
 
 ---
 
