@@ -60,7 +60,7 @@ We are currently in **Phase I: The Genesis Diagnosis**.
 ---
 
 ## ⚖️ Governance
-**Negative Integration.** Parameters are not voted on; they are forked. If the definition of Entropy becomes oppressive, fork the logic but keep the ledger history. We align via the threat of exit.
+**Negative Integration.** Parameters are not voted on; they are forked. If the definition of Entropy becomes oppressive, fork the logic but keep the ledger history. We align via the threat of exit. There will be no rivalry between versions of TOP. Instead every competing version will be treated as an a/b-test. There is no need to vote on different versions, because the usage/execution of a version will determine the survival of it. Therefore TOP is the very first project of itself.
 
 ---
 
