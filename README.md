@@ -17,6 +17,7 @@ The current economic stack is broken. It relies on:
 
 **The Ontological Protocol (TOP)** is a gapless, thermodynamic economic system designed for the Intelligence Age. It does not require a central bank or political committees. Instead, it derives its monetary policy from the **Laws of Thermodynamics** and **Algorithmic Information Theory**.
 
+**Important: TOP-Coins can't be bought. They can only be minted through action (e.g. writing code that enables others, produce goods that enable others)
 ---
 
 ## 🧠 Core Mechanics (The Physics)
