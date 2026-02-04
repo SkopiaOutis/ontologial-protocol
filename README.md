@@ -1,74 +1,30 @@
 # The Ontological Protocol (TOP)
-**v3.2 | Radical Endogeneity & Third-Order Cybernetics**
+**Canonical Edition (CE) | Structural Relational Monism under Deterministic Implementation**
 
-> **Axiom:** *Esse est Operari* (To be is to execute).
+> **From Object-Orientation to Relational Monism** *There are no objects. There are only processes of varying temporal persistence.*
 >
-> In a digital economy of zero-marginal-cost reproduction, value is no longer defined by **Asset Ownership** (Store of Value), but by **Causal Enablement** (Flow of Value).
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Reference Standard](https://img.shields.io/badge/Status-v3.2_Gold-green.svg)]()
-[![Cybernetics: Third-Order](https://img.shields.io/badge/Cybernetics-3rd_Order-blueviolet.svg)]()
 
-## 📜 The Manifesto
-The current economic stack is broken. It relies on:
-1.  **Gatekeepers:** Financial intermediaries extracting rent from friction.
-2.  **Static Assets:** Valuing possession over utility.
-3.  **Entropy Blindness:** Failing to distinguish between signal (Structure) and noise (Speculation).
+## The Shift
+Traditional economics is built on a "Physics of Solids": It treats value as a static object (Gold, Fiat, Token) that can be held in a box. But in a computational universe, value is not a state—it is a vector. It is the capacity to structure reality against the flow of entropy.
 
-**The Ontological Protocol (TOP)** is a gapless, thermodynamic economic system designed for the Intelligence Age. It does not require a central bank or political committees. Instead, it derives its monetary policy from the **Laws of Thermodynamics** and **Algorithmic Information Theory**.
+**The Ontological Protocol (TOP)** is a new economic operating system that replaces the Exchange of Objects with the Evaluation of Processes.
 
-**Important: TOP-Coins can't be bought. They can only be minted through meaningfull action (e.g. writing code that enables others, produce goods that enable others)**
+**Important: TOP-Coins can't be bought. They can only be minted through meaningfull action (e.g. writing code that enables others, producing goods that enable others)**
 
 ---
 
-## 🧠 Core Mechanics (The Physics)
+## The Mechanism: Dynamic Causal Density (DCD)
 
-### 1. Radical Endogeneity
-No magic numbers. The protocol discovers its own constants in real-time:
-* **Price ($B_{prod}$):** The thermodynamic floor, discovered via the 5th percentile of burn.
-* **Attribution ($\alpha$):** Determined by **LZMA Compression**. High structure (Truth/Code) = High Value. Low structure (Noise) = Low Value.
-* **Time ($\lambda$):** The **Law of Structural Persistence**. Truth ($\alpha \approx 1$) does not decay. Education and Code generate royalties forever.
+We introduce a strictly monistic framework where "Wealth" is redefined as Structural Integrity within a living causal graph. The protocol does not measure what you have, but how deeply you are embedded in the flow of creation.
 
-### 2. The Feedback Loops
-* **The Cybernetic Lung ($\epsilon$):** A PID-Controller that adjusts difficulty to keep the network at the **Edge of Chaos** (Branching Ratio $\sigma \approx 1$).
-* **The Metabolic Loop:** We redefine consumption as "Metabolic Input". A game that restores a farmer's energy is causally linked to the wheat he harvests. **Restorative Economy > Attention Economy.**
+* No Infinite Accumulation: Value requires constant metabolic maintenance. Without input, your causal mass decays ($\lambda \to 0$). Oligarchies decompose naturally; only active structure persists.
+* The Right to Resonate: The protocol mathematically recognizes the necessity of human latency. Through the Stasis Mechanism, the system rewards deep work and rest—but only if that rest manifests in a structurally significant output.
+* Proof of Structure: We replace "Proof of Stake" (Capital) and "Proof of Work" (Waste) with Proof of Structure. The network secures itself by maximizing its own topological complexity ($\Omega$) and metabolic efficiency.
 
-### 3. The Adoption Engine
-* **Vampire Attack:** We identify the gap between your *Ontological Value* (Code/Care) and your *Fiat Income*. The protocol mints the difference as vesting equity.
-* **Trace & Ignite:** View code for free (Ghost Edge). Build on it, and the edge ignites, paying retroactive royalties to the creator. No paywalls, only consequences.
+### The Code (Canonical Edition)
 
----
+This repository contains the reference implementation of the Canonical Edition (CE). It is a deterministic, horizon-bounded simulation of a Structural Relational Economy. It separates the thermodynamic record (Ledger) from the cybernetic evaluation (Ripple), ensuring a system that is mathematically rigorous, computationally finite, and biologically adaptive.
 
-## 📂 Repository Contents
 
-* **[`/whitepaper`](https://github.com/SkopiaOutis/ontologial-protocol/blob/whitepaper/Ontological_Protocol_V3_new%20(8).pdf):** The complete specification (v3.2). Contains mathematical proofs for Sybil-Resistance, the end of redistribution systems (Pensions/Education), and the full lifecycle theory.
-  
-* **[`/simulation`](https://github.com/SkopiaOutis/ontologial-protocol/blob/simulation/genesis_diagnosis.py):** `genesis_diagnosis.py`. A Python reference implementation demonstrating the shadow-run valuation of fiat actors.
-
----
-
-## 🚀 Getting Started
-
-### For Developers (The Bridge)
-We are currently in **Phase I: The Genesis Diagnosis**.
-1.  **Clone the Repo:** Analyze the `genesis_diagnosis.py`.
-2.  **Run a Shadow Node:** Map your local git contributions to the Ontological Metric.
-3.  **Join the Syndicate:** We are building the *Co-Creation Platform* (See Appendix F).
-
-### For Humans (The Lifecycle)
-* **Teachers:** Your output has $\lambda \approx 1$. You are the equity holders of the future.
-* **Farmers:** You are the thermodynamic root. The system protects your $B_{prod}$.
-* **Caregivers:** You are Entropy Inhibitors. The protocol pays you for the longevity of your patients.
-
-### Start
-* The Genesis Node is bootstrapped by the Syndicate. Since OpEx ($B_{prod}$) is covered by user-fiat from Day 1, the initial financial risk is limited to hardware CapEx, which is amortized over the system's growth.
-
----
-
-## ⚖️ Governance
-**Negative Integration.** Parameters are not voted on; they are forked. If the definition of Entropy becomes oppressive, fork the logic but keep the ledger history. We align via the threat of exit. There will be no rivalry of competing versions of TOP, because every version will be treated as an a/b-test. And there is no need to vote on one version or the other, because the survival of a version just depends on its usage/execution. TOP will be the first project of itself.
-
----
-
-*Authored by Skopia Outis & The Resonance Collective.*
-*2026*
+### Stop hoarding tokens. Start building structure.
