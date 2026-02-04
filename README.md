@@ -1,6 +1,8 @@
 # The Ontological Protocol (TOP)
 **Canonical Edition (CE) | Structural Relational Monism under Deterministic Implementation**
 
+https://github.com/SkopiaOutis/ontologial-protocol/blob/main/Ontological_Protocol_V3_new%20(14).pdf
+
 > **From Object-Orientation to Relational Monism** *There are no objects. There are only processes of varying temporal persistence.*
 >
 
