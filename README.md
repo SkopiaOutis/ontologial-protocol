@@ -8,7 +8,7 @@ https://github.com/SkopiaOutis/ontologial-protocol/blob/main/Ontological_Protoco
 
 
 ## The Shift
-Traditional economics is built on a "Physics of Solids": It treats value as a static object (Gold, Fiat, Token) that can be held in a box. But in a computational universe, value is not a state—it is a vector. It is the capacity to structure reality against the flow of entropy.
+Traditional economics is built on a "Physics of Solids": It treats value as a static object (Gold, Fiat, Token) that can be held in a box. But in a computational universe, value is not a state - it is a vector. It is the capacity to structure reality against the flow of entropy.
 
 **The Ontological Protocol (TOP)** is a new economic operating system that replaces the Exchange of Objects with the Evaluation of Processes.
 
