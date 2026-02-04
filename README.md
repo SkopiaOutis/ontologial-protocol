@@ -21,7 +21,7 @@ Traditional economics is built on a "Physics of Solids": It treats value as a st
 We introduce a strictly monistic framework where "Wealth" is redefined as Structural Integrity within a living causal graph. The protocol does not measure what you have, but how deeply you are embedded in the flow of creation.
 
 * No Infinite Accumulation: Value requires constant metabolic maintenance. Without input, your causal mass decays ($\lambda \to 0$). Oligarchies decompose naturally; only active structure persists.
-* The Right to Resonate: The protocol mathematically recognizes the necessity of human latency. Through the Stasis Mechanism, the system rewards deep work and rest—but only if that rest manifests in a structurally significant output.
+* The Right to Resonate: The protocol mathematically recognizes the necessity of human latency. Through the Stasis Mechanism, the system rewards deep work and rest - but only if that rest manifests in a structurally significant output.
 * Proof of Structure: We replace "Proof of Stake" (Capital) and "Proof of Work" (Waste) with Proof of Structure. The network secures itself by maximizing its own topological complexity ($\Omega$) and metabolic efficiency.
 
 ### The Code (Canonical Edition)
