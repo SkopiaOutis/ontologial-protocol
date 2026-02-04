@@ -32,3 +32,5 @@ This repository contains the reference implementation of the Canonical Edition (
 ### Stop hoarding tokens. Start building structure.
 
 ###Appendix: Living the Protocol: The Human Interface: https://github.com/SkopiaOutis/ontologial-protocol/blob/main/THE_ONTOLOGICAL_PROTOCOL_Canonical_Edition__CE__Human%20Interface%20Appendix.pdf
+
+###Technical Addendum: https://github.com/SkopiaOutis/ontologial-protocol/blob/main/TOP_fixes.pdf
