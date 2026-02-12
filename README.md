@@ -32,8 +32,6 @@ Traditional economics (and most blockchains) suffer from the "Object Ontology Er
 
 
 
-**Important: TOP-Coins can't be bought. They can only be minted through meaningfull action (e.g. writing code that enables others, producing goods that enable others)**
-
 ---
 
 ## Core Architecture
