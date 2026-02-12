@@ -2,7 +2,7 @@
 **Audition Ready | Bundle Locked | Consensus Critical
 "Value is not a stored object. Value is a structured process."**
 
-[https://github.com/SkopiaOutis/ontologial-protocol/blob/main/Ontological_Protocol_V3_new%20(14).pdf](https://github.com/SkopiaOutis/ontologial-protocol/blob/main/TOP_v1_0_audition_ready%20(3).pdf)
+https://github.com/SkopiaOutis/ontologial-protocol/blob/main/TOP_v1_0_audition_ready%20(3).pdf
 
 **Status:** *Audition Ready Specification for TOP v1.0*
 
