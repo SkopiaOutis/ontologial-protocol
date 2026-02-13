@@ -1,0 +1,5 @@
+# Im aurora/ Verzeichnis (wo du gerade bist):
+@"
+mpmath>=1.3.0
+pyyaml>=6.0
+"@ | Out-File -FilePath "requirements.txt" -Encoding utf8

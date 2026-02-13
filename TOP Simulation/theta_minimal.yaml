@@ -1,0 +1,82 @@
+# TOP v3.1 - Minimal Genesis Theta (WITH ECONOMIC MODULE)
+
+# Fixed-Point Precision
+k: 8
+FPONE: 100000000  # 10^8
+
+# Structural Parameters
+H: 10
+tau: 10
+gamma_fp: 50000000  # 0.5
+
+K_parents: 10
+K_children: 100
+
+# Monetary Parameters
+lambda_b_fp: 10000000  # 1.0
+epsilon_num_fp: 1
+
+# Regulator Parameters
+epsilon_init_fp: 0
+sigma_target_fp: 150000000  # 1.5
+beta_fp: 10000000  # 0.1
+kappa_P_fp: 5000000  # 0.05
+
+epsilon_min_fp: 0
+epsilon_max_fp: 200000000  # 2.0
+
+# Event Constraints
+N_sig_max: 10
+N_E_max: 1000
+b_max: 1000000000
+E_max: 1000000000000
+
+# DAC Parameters
+x_min_fp: 100000000     # 1.0
+x_max_fp: 10000000000   # 100.0
+N_log: 1000
+
+u_min_fp: -1000000000   # -10.0
+u_max_fp: 1000000000    # 10.0
+N_exp: 100
+
+# Economic Parameters
+delta_B_fp: 10000000    # 0.1 (backlog decay)
+xi_fp: 10000000         # 0.2 (supply smoothing)
+lambda_u_fp: 50000000   # 0.5 (underutilization penalty)
+zeta_fp: 10000000       # 0.1 (planetary stress EMA)
+kappa_X_fp: 1000000     # 0.05 (planetary stress sensitivity)
+kappa_p_fp: 1000000    # 0.1 (price adjustment rate)
+alpha_chi_fp: 20000000  # 0.5 (scarcity weight in workforce utility)
+nu_fp: 10000000         # 0.1 (workforce migration rate)
+
+l_min_fp: -200000000    # -5.0 (min log-price)
+l_max_fp: 250000000     # 5.0 (max log-price)
+mu_max_fp: 200000000    # 2.0 (max planetary multiplier)
+
+# Stasis Parameters
+rho_fp: 10000000        # 0.1 (stasis accumulation rate)
+eta_S_0_fp: 10000000    # 0.1 (base realization factor)
+M_target: 1000          # Target mint for activity normalization
+theta_0_fp: 50000000    # 0.5 (InvestMint system cap ratio)
+phi_0_fp: 100000000     # 1.0 (InvestMint individual cap ratio)
+
+# Universes (minimal for testing)
+SKUs:
+  - food
+  - energy
+
+Planets:
+  - earth
+
+# Productivity (A_fp)
+A_fp:
+  food: 200000000     # 2.0
+  energy: 150000000   # 1.5
+
+# Impact Matrix (nested)
+imp_fp:
+  food:
+    earth: 10000000   # 0.1
+  energy:
+    earth: 50000000   # 0.5
