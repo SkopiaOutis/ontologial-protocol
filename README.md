@@ -20,7 +20,7 @@ It defines a deterministic, thermodynamically grounded, and cybernetically regul
 
 This is not a whitepaper. This is a consensus-critical engineering blueprint.
 
-
+First Draft of Simulation (not yet calibrated): 
 
 ## The Paradigm Shift
 Traditional economics (and most blockchains) suffer from the "Object Ontology Error": they treat value as a static token that exists independently of the network's state. This leads to entropy, speculation, and the decoupling of money from reality.
